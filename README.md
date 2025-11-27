@@ -8,9 +8,9 @@ Setup and Installation:
 To get started, first download the model files, which are necessary for image generation. After that, set up the working environment by installing the required software packages listed in the requirements file. Follow these steps:
 
 1.Clone the repository to your local machine.
- 2.Download the model from the provided link in the model folder.
- 3.Install dependencies as listed in requirements.txt using your package manager.
- 4.Run setup scripts if available to complete installation.
+2.Download the model from the provided link in the model folder.
+3.Install dependencies as listed in requirements.txt using your package manager.
+4.Run setup scripts if available to complete installation.
 
 Hardware Requirements:
 For the best performance, a computer with a graphics processing unit (GPU) is recommended. A GPU with at least 6GB of memory is suitable for running the model efficiently. If a GPU is not available, the model can run on a central processor unit (CPU), but generation times will be much longer.
